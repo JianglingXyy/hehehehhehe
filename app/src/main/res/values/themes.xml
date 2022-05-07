@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Dark" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+    <style name="Pink" parent="Theme.Design.NoActionBar">
+        <item name="colorControlNormal">@color/pink_trans</item>
+        <item name="colorPrimary">@color/theme_color_primary</item>
+        <item name="android:textColorPrimary">@color/gray_light</item>
+        <item name="colorPrimaryDark">@color/theme_color_primary_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="hintTextColor">@color/colorPrimaryDark</item>
+        //<item name="android:windowBackground">@color/white</item>
+        <item name="android:navigationBarColor" >@color/black_light</item>
+    </style>
+    <style name="search" parent="Widget.AppCompat.SearchView">
+        <item name="android:icon"> @drawable/ic_search</item>
+        <item name="queryBackground">@drawable/allradius</item>
+    </style>
+</resources>

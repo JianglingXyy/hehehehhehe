@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pic/app/src/main/res/drawable/allradius.xml" value="0.1285" />
+        <entry key="..\:/Pic/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Pic/app/src/main/res/drawable/ic_back_dark.xml" value="0.1" />
+        <entry key="..\:/Pic/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Pic/app/src/main/res/layout/activity_register_login.xml" value="0.1" />
+        <entry key="..\:/Pic/app/src/main/res/layout/activity_setting.xml" value="0.2" />
+        <entry key="..\:/Pic/app/src/main/res/layout/article_item.xml" value="0.264" />
+        <entry key="..\:/Pic/app/src/main/res/layout/fragment_base.xml" value="0.2101851851851852" />
+        <entry key="..\:/Pic/app/src/main/res/layout/fragment_dashboard.xml" value="0.12511584800741427" />
+        <entry key="..\:/Pic/app/src/main/res/layout/fragment_home.xml" value="0.125" />
+        <entry key="..\:/Pic/app/src/main/res/layout/fragment_login.xml" value="0.12777777777777777" />
+        <entry key="..\:/Pic/app/src/main/res/layout/fragment_register.xml" value="0.1" />
+        <entry key="..\:/Pic/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/Pic/app/src/main/res/layout/search_items.xml" value="0.11145833333333334" />
+        <entry key="..\:/Pic/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1546875" />
+        <entry key="..\:/Pic/app/src/main/res/menu/search_menu.xml" value="0.1712962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
